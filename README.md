@@ -5,7 +5,7 @@
 # The demo of the site is hosted on [streamlit](https://shady4real-diabetes-prediction-model-diabetes-6c5t3y.streamlitapp.com/)
 
 ## Problem Statement
-How can be a diabetic patient can be tested and diagnosed with proper treatment.
+How a diabetic patient can be tested and diagnosed with proper treatment.
 
 ![image](https://github.com/shady4real/diabetes_prediction_model/blob/main/diabetic_patient.jpg?raw=true)
 
