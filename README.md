@@ -28,6 +28,7 @@ Install all requirements by running the following command
 * and then run it on command line with following command.
 > jupyter notebook
 
+## Screenshot of the web application
 
 ## Issues 
 
