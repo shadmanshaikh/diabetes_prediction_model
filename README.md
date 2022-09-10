@@ -30,6 +30,11 @@ Install all requirements by running the following command
 
 ## Screenshot of the web application
 
+![image](https://github.com/shady4real/diabetes_prediction_model/blob/main/snapshots/ss_01.png)
+![image](https://github.com/shady4real/diabetes_prediction_model/blob/main/snapshots/ss_02.png)
+![image](https://github.com/shady4real/diabetes_prediction_model/blob/main/snapshots/ss_03.png)
+![image](https://github.com/shady4real/diabetes_prediction_model/blob/main/snapshots/ss_04.png)
+
 ## Issues 
 
 Incase you have any difficulties or issues while trying to run the app you can raise it on the issues section. 
